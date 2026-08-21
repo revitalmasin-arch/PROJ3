@@ -1,5 +1,5 @@
 # Hebrew Word of the Day
-
+i just created a branch
 A simple Python script that teaches a new Hebrew word each time you run it. The script prints the word in Hebrew, its transliterated pronunciation, and its English meaning.
 
 ## Features
